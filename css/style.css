@@ -2,13 +2,19 @@ body {
     background-color: red;
 }
 #main-greeting {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
     text-align: center;
     background-color: greenyellow;
     margin-top: 25px;
     margin-bottom: 25px;
 }
-#test {
+#outside-greeting-container {
     background-color: black;
+    height: 600px;
 }
 #img {
     background-color: black;
