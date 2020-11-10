@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+}
+#main-greeting {
+    text-align: center;
+    background-color: greenyellow;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#test {
+    background-color: black;
+}
